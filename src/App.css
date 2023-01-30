@@ -1,0 +1,9 @@
+body {
+  background-color: lightblue;
+}
+
+.App {
+  margin: auto;
+  max-width: 800px;
+  text-align: center;
+}
