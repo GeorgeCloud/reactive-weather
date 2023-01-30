@@ -2,7 +2,7 @@
 // else return ()
 
 function WeatherDisplay(props){
-  const { temp, name, feelsLike, desc } = props;
+  const { name, temp, feelsLike, desc } = props;
 
   return (
     <div>
